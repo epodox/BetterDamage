@@ -4,12 +4,13 @@ This addon is an update to the outdated CoolDamageFont. The previous addon used 
 Changes:
 Updates default font with one that works in the Shadowlands expansion.
 Updates base code.
+
 Instuctions:
-You can change the font to any of the 6 included fonts or download your own .tff file.
+You can change the font to any of the 6 included fonts or download your own .ttf file.
 
 Note: Make sure your showing file extensions in windows explorer. For instructions on how to do that go HERE
 
-Navigate to (...\World of Warcraft\Interface\AddOns\CoolDamageFont2)
-Rename font.ttf to something different.
-Rename the new font file you want to use to font.ttf
-Close and reopen World of Warcraft.
+1. Navigate to (...\World of Warcraft\Interface\AddOns\CoolDamageFont2)
+2. Rename font.ttf to something different.
+3. Rename the new font file you want to use to font.ttf
+4. Close and reopen World of Warcraft.
