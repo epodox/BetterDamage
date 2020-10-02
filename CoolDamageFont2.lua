@@ -2,10 +2,10 @@
 print("CoolDamageFont v2.0")
 
 -- Locals
-local damagefont_FONT_NUMBER = "Interface\\AddOns\\CoolDamageFont\\font.ttf";
+local damagefont_FONT_NUMBER = "Interface\\AddOns\\CoolDamageFont2\\font.ttf";
 
 -- Code Base
-CoolDamageFont2 = CreateFrame("Frame", "CoolDamageFont");
+CoolDamageFont2 = CreateFrame("Frame", "CoolDamageFont2");
 
 function CoolDamageFont2:ApplySystemFonts()
 	DAMAGE_TEXT_FONT = damagefont_FONT_NUMBER;
