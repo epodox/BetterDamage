@@ -1,0 +1,7 @@
+## Interface: 40000
+## Title: CoolDamageFont v1.0
+## DefaultState: Enabled
+## Author: revolutio
+## Version: 1.0
+## Notes: Enhances your output damage font
+CoolDamageFont.lua 
