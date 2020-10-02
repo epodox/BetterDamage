@@ -4,4 +4,4 @@
 ## Author: Epodox
 ## Version: 2.0
 ## Notes: Enhances your output damage font
-CoolDamageFont.lua
+CoolDamageFont2.lua

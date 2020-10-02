@@ -5,18 +5,18 @@ print("CoolDamageFont v2.0")
 local damagefont_FONT_NUMBER = "Interface\\AddOns\\CoolDamageFont\\font.ttf";
 
 -- Code Base
-CoolDamageFont = CreateFrame("Frame", "CoolDamageFont");
+CoolDamageFont2 = CreateFrame("Frame", "CoolDamageFont");
 
-function CoolDamageFont:ApplySystemFonts()
+function CoolDamageFont2:ApplySystemFonts()
 	DAMAGE_TEXT_FONT = damagefont_FONT_NUMBER;
 end
 
-CoolDamageFont:SetScript("OnEvent",
+CoolDamageFont2:SetScript("OnEvent",
 	function() 
 		if (event == "ADDON_LOADED") then
-		CoolDamageFont:ApplySystemFonts()
+		CoolDamageFont2:ApplySystemFonts()
 	end
 end);
 
-CoolDamageFont:RegisterEvent("ADDON_LOADED");
-CoolDamageFont:ApplySystemFonts()
+CoolDamageFont2:RegisterEvent("ADDON_LOADED");
+CoolDamageFont2:ApplySystemFonts()
