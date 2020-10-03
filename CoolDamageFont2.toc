@@ -3,5 +3,7 @@
 ## DefaultState: Enabled
 ## Author: Epodox
 ## Version: 2.0
-## Notes: Enhances your output damage font.
-CoolDamageFont2.lua
+## Notes: Enhances your output damage font!
+# Retail:80300, Classic:11305
+
+Luas\CoolDamageFont2.lua
