@@ -1,9 +1,0 @@
-## Interface: 11305
-## Title: CoolDamageFont v2.0
-## DefaultState: Enabled
-## Author: Epodox
-## Version: 2.0
-## Notes: Enhances your output damage font!
-# Retail:80300, Classic:11305
-
-Luas\CoolDamageFont2.lua
