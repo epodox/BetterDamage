@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: BetterDamage
+## DefaultState: Enabled
+## Author: Epodox
+## Version: 1.0
+## Notes: Makes your damage text better.
+# Retail:80300, Classic:11305
+
+Luas\BetterDamage.lua
