@@ -1,5 +1,5 @@
 -- Shows addon loaded in chat window.
-print("BetterDamage v1.0")
+print("BetterDamage Loaded")
 
 -- Locals
 local damagefont_FONT_NUMBER = "Interface\\AddOns\\BetterDamage\\Fonts\\font.ttf";
